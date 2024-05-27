@@ -1,7 +1,7 @@
 # Dart Variables Quiz
 
 This is a simple desktop application built using PyQt5 in Python. The application presents a quiz to test the user's knowledge of variables in the Dart programming language.
-![image](https://github.com/lfillaz/Dart-Variables-Quiz/assets/114345508/884f35ee-175b-4335-91e5-4dbb4da5e319)
+
 
 
 ## Features
@@ -12,7 +12,7 @@ This is a simple desktop application built using PyQt5 in Python. The applicatio
 - At the end of the quiz, the user receives their final score.
 
 ## Screenshots
-![Quiz Screenshot](/images/quiz_screenshot.png)
+![image](https://github.com/lfillaz/Dart-Variables-Quiz/assets/114345508/884f35ee-175b-4335-91e5-4dbb4da5e319)
 
 ## Prerequisites
 - Python 3.x
